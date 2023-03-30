@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yusuf.</h1>
 <h3 align="center">Freshly graduated Jr. Data Scientist</h3>
-
-
+<img align="right" alt="coding" width=400 height=350 src="">
+ <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+<img src="http://reddit.com/r/reactiongifs/comments/2nhksk/mrw_im_failing_calculus_but_i_can_still_get_an_a/">
 
 <img src="https://komarev.com/ghpvc/?username=yusufcank34&label=Profile%20views&color=0e75b6&style=flat" alt="yusufcank34" /> 
+  
 - 🔭 I’m currently working on [...](...)
 
 - 🌱 I’m currently learning **cloudera, azure, spark, hadoop.**
