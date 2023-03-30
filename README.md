@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yusuf.</h1>
 <h3 align="center">Freshly graduated Jr. Data Scientist</h3>
-<img align="right" alt="coding" width=400  src="https://github.com/yusufcank34/yusufcank34/blob/main/programmer_burning.gif
-">
+
+<img align=right width="500" src="https://github.com/yusufcank34/yusufcank34/blob/main/programmer_burning.gif" />
+
+
+
+
+<img align=right width="400" src="https://www.github.com/yusufcank34/blob/main/programmer_burning.gif">
 
 
 <img src="https://komarev.com/ghpvc/?username=yusufcank34&label=Profile%20views&color=0e75b6&style=flat" alt="yusufcank34" /> 
