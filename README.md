@@ -15,19 +15,6 @@
 
 - 🌱 I’m currently learning **cloudera, azure, spark, hadoop.**
 
-- 👯 I’m looking to collaborate on [...](...)
-
-- 🤝 I’m looking for help with [...](...)
-
-- 👨‍💻 All of my projects are available at [portf.link](portf.link)
-
-- 📝 I regularly write articles on [medium](medium)
-
-- 💬 Ask me about **machine learning, data analysis, data engineering.**
-
-- 📫 How to reach me **yusufcankilic369@gmail.com**
-
-- 📄 Know about my experiences [linktoresume](linktoresume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
