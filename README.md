@@ -3,8 +3,7 @@
 
 <img align=right width="450" src="https://github.com/yusufcank34/yusufcank34/blob/main/programmer_burning.gif" />
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=yusufcank34.visitor-badge)
-
+[![Profile views](https://komarev.com/ghpvc/?username=yusufcank34&color=blueviolet&label=Profile%20views&style=flat)](https://github.com/yusufcank34)
 
 
 
