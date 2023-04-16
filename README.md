@@ -9,9 +9,10 @@
 <img align=right width="400" src="https://www.github.com/yusufcank34/blob/main/programmer_burning.gif">
 
 
-<img src="https://komarev.com/ghpvc/?username=yusufcank34&label=Profile%20views&color=0e75b6&style=flat" alt="yusufcank34" /> 
+<img src="https://komarev.com/ghpvc/?username=yusufcank34&label=Profile%20views&color=0e75b6&style=flat&cookie=your-unique-cookie-name" alt="yusufcank34" />
+
   
-- 🔭 I’m currently working on **data engineering, machine learning, ETL.
+- 🔭 I’m currently working on **data engineering, machine learning, ETL.**
 
 - 🌱 I’m currently learning **cloudera, azure, spark, hadoop.**
 
