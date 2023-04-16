@@ -7,7 +7,15 @@
 
 
 <img align=right width="400" src="https://www.github.com/yusufcank34/blob/main/programmer_burning.gif">
-[![Profile Views](http://img.shields.io/badge/Profile%20Views-<script src="https://profile-counter.glitch.me/{yusufcank3}/count.js"></script>-blue)](https://github.com/{yusufcank3})
+
+![Profile Views](https://komarev.com/ghpvc/?username=yusufcank34&label=Profile%20views&color=0e75b6&style=flat-square)
+
+
+
+
+
+
+
 
 
 <img src="https://komarev.com/ghpvc/?username=yusufcank34&label=Profile%20views&color=0e75b6&style=flat&cookie=your-unique-cookie-name" alt="yusufcank34" />
