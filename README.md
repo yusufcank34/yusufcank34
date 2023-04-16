@@ -4,7 +4,7 @@
 <img align=right width="450" src="https://github.com/yusufcank34/yusufcank34/blob/main/programmer_burning.gif" />
 
   
-- 🔭 I’m currently working on **data engineering, machine learning, ETL.**
+- :heavy_check_mark_button: I’m currently working on **data engineering, machine learning, ETL.**
 
 - 🌱 I’m currently learning **cloudera, azure, spark, hadoop.**
 
