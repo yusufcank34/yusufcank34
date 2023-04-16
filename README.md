@@ -11,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=yusufcank34&label=Profile%20views&color=0e75b6&style=flat" alt="yusufcank34" /> 
   
-- 🔭 I’m currently working on [...](...)
+- 🔭 I’m currently working on **data engineering, machine learning, ETL.
 
 - 🌱 I’m currently learning **cloudera, azure, spark, hadoop.**
 
