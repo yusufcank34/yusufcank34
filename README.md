@@ -3,7 +3,7 @@
 
 <img align=right width="450" src="https://github.com/yusufcank34/yusufcank34/blob/main/programmer_burning.gif" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yusufcank34.your-repo-id&left_color=green&right_color=red)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yusufcank34.your-repo-id&left_color=green&right_color=blueviolet)
 
 
 
