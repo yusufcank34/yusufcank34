@@ -4,8 +4,6 @@
 <img align=right width="450" src="https://github.com/yusufcank34/yusufcank34/blob/main/programmer_burning.gif" />
 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=yusufcank34&label=Profile%20views&color=0e75b6&style=flat-square)
 [![Profile views](https://komarev.com/ghpvc/?username=yusufcank34&color=blueviolet)](https://github.com/yusufcank34)
 
 
@@ -15,8 +13,6 @@
 
 
 
-
-<img src="https://komarev.com/ghpvc/?username=yusufcank34&label=Profile%20views&color=0e75b6&style=flat&cookie=your-unique-cookie-name" alt="yusufcank34" />
 
   
 - 🔭 I’m currently working on **data engineering, machine learning, ETL.**
