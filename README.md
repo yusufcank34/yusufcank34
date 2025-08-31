@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf.</h1>
-<h3 align="center">Freshly graduated Jr. Data Scientist</h3>
+<h3 align="center">Data Solutions (Office TPS) Specialist @TOYOTA</h3>
 
 <img align=right width="450" src="https://github.com/yusufcank34/yusufcank34/blob/main/programmer_burning.gif" />
 
