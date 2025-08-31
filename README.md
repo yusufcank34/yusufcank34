@@ -4,7 +4,7 @@
 <img align=right width="450" src="https://github.com/yusufcank34/yusufcank34/blob/main/programmer_burning.gif" />
 
   
-✅ I’m currently working on **data engineering, machine learning, ETL.**
+✅ I’m currently working on **llm, rag, llangchain, llama.cpp, etl, reverse engineering.**
 
 ✅ I’m currently learning **cloudera, azure, spark, hadoop.**
 
